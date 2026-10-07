@@ -1,0 +1,17 @@
+{
+    "name": "unicah/oop",
+    "description": "Demo Academico para PHP Orientado a Objetos",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Unicah\\Oop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Orlando Betancourth",
+            "email": "orlando@uledger.io"
+        }
+    ],
+    "require": {}
+}
